@@ -1,6 +1,8 @@
 # Hi there 👋
 
-> [!WARNING]
-> I’m moving my work to Codeberg.  
-> All new projects, updates, and active development will live there from now on:  
-> 👉 https://www.codeberg.org/d4r5c0d3
+> [!IMPORTANT]
+> I’m transitioning my work to Codeberg — it aligns better with how I want to build,  
+> the tools I want to use, and the direction I’m taking.  
+>  
+> All new projects and updates will live here:  
+> 👉 https://codeberg.org/d4r5c0d3
